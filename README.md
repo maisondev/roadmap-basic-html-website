@@ -2,15 +2,13 @@
 
 Um site multi-página com estrutura semântica HTML, focado em demonstrar boas práticas de HTML puro e SEO.
 
+## Project URL
+
+https://maisondev.github.io/roadmap-basic-html-website/
+
 ## 🌐 Projeto
 
 Este projeto é a solução para o desafio [Basic HTML Website](https://roadmap.sh/projects/basic-html-website) do Roadmap.sh.
-
-## 📱 Site Publicado
-
-**URL do Projeto:** https://maisondev.github.io/roadmap-basic-html-website/
-
-Visualize o site em: https://maisondev.github.io/roadmap-basic-html-website/
 
 ## ✨ Características
 
