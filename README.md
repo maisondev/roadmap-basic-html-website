@@ -8,6 +8,8 @@ Este projeto é parte do desafio [Basic HTML Website](https://roadmap.sh/packs/h
 
 ## 📱 Site Publicado
 
+**URL do Projeto:** https://maisondev.github.io/roadmap-basic-html-website/
+
 Visualize o site em: https://maisondev.github.io/roadmap-basic-html-website/
 
 ## ✨ Características
@@ -37,11 +39,68 @@ Visualize o site em: https://maisondev.github.io/roadmap-basic-html-website/
 - Criar formulários com associação correta de labels
 - Preparar a estrutura para estilização posterior com CSS
 
-## 🔗 Desafio Original
+## 🚀 Como Executar
 
-[Basic HTML Website - Roadmap.sh](https://roadmap.sh/packs/html/basic-html-website)
+### Opção 1: Abrir no Navegador
+Simplesmente abra o arquivo `index.html` em seu navegador web.
+
+### Opção 2: Com Servidor Local
+Se tiver Python 3 instalado:
+```bash
+python -m http.server 8000
+# Acesse http://localhost:8000
+```
+
+Se tiver Node.js:
+```bash
+npx http-server
+```
+
+## 🛠️ Tecnologias Utilizadas
+
+- **HTML5**: Estrutura semântica e tags modernas
+- **Meta Tags**: SEO (Open Graph, description, canonical)
+- **Favicon SVG**: Ícone personalizado inline
+- **Formulário HTML**: Com labels e validação básica
+- **Acessibilidade**: ARIA labels e atributos semânticos
+
+## 📋 Estrutura do Projeto
+
+```
+roadmap-basic-html-website/
+├── index.html           # Homepage
+├── projects.html        # Página de projetos
+├── articles.html        # Página de artigos
+├── contact.html         # Página de contato
+├── README.md           # Este arquivo
+└── .gitignore          # Gitignore configurado
+```
+
+## ✅ Checklist de Requisitos
+
+- [x] Estrutura HTML semântica
+- [x] 4 páginas (Home, Projetos, Artigos, Contato)
+- [x] Navegação presente em todas as páginas
+- [x] Meta tags de SEO em cada página
+- [x] Formulário de contato com campos obrigatórios
+- [x] HTML puro (sem CSS externo)
+- [x] Preparado para estilização futura
+- [x] Favicon personalizado
+- [x] Acessibilidade básica
+
+## 📚 Próximos Passos
+
+O próximo projeto do roadmap será adicionar **CSS** para estilizar este website!
+
+## 🔗 Links Importantes
+
+- 🌐 [Site ao vivo](https://maisondev.github.io/roadmap-basic-html-website/)
+- 📖 [Desafio Original - Roadmap.sh](https://roadmap.sh/packs/html/basic-html-website)
+- 💼 [Portfolio no GitHub](https://github.com/maisondev/portfolio)
+- 📱 [LinkedIn](https://www.linkedin.com/in/maisongalvao)
 
 ---
 
 **Desenvolvido por**: Maison Galvão  
-**Última atualização**: Setembro 2025
+**Última atualização**: Setembro 2026  
+**Licença**: MIT
