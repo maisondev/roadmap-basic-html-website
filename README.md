@@ -4,7 +4,7 @@ Um site multi-página com estrutura semântica HTML, focado em demonstrar boas p
 
 ## 🌐 Projeto
 
-Este projeto é parte do desafio [Basic HTML Website](https://roadmap.sh/packs/html/basic-html-website) do Roadmap.sh.
+Este projeto é a solução para o desafio [Basic HTML Website](https://roadmap.sh/projects/basic-html-website) do Roadmap.sh.
 
 ## 📱 Site Publicado
 
@@ -95,7 +95,7 @@ O próximo projeto do roadmap será adicionar **CSS** para estilizar este websit
 ## 🔗 Links Importantes
 
 - 🌐 [Site ao vivo](https://maisondev.github.io/roadmap-basic-html-website/)
-- 📖 [Desafio Original - Roadmap.sh](https://roadmap.sh/packs/html/basic-html-website)
+- 📖 [Desafio Original - Roadmap.sh](https://roadmap.sh/projects/basic-html-website)
 - 💼 [Portfolio no GitHub](https://github.com/maisondev/portfolio)
 - 📱 [LinkedIn](https://www.linkedin.com/in/maisongalvao)
 
